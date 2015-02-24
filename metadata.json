@@ -1,0 +1,10 @@
+{
+        "name": "Users ExtDB",
+        "description": "Use external DB for the users.",
+        "version": "1.0",
+        "date": "2015-02-23",
+        "author": "Ivan Donkov",
+        "author_uri": "https://github.com/kufeiko",
+        "license": "GPLv3",
+        "min_q2a": "1.6"
+}
